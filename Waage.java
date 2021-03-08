@@ -15,4 +15,9 @@ public class Waage
         // initialise instance variables
         x = 0;
     }
+
+    public void main (String args[])
+    {
+        System.out.println("Hallo hier ist JFK!")
+    }
 }
